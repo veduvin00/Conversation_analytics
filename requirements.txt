@@ -1,7 +1,6 @@
-streamlit
+streamlit>=1.36.0
 pandas
 numpy
-re
 docx2txt
 nltk
 spacy
